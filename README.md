@@ -87,7 +87,7 @@ Why Slingshot?
 
 ---
 
-## Having Issues? Try these things first
+## Encountered Problems? Try these things first
 
 1. Make sure you ran all steps in [Get started](#get-started) including the [initial machine setup](#initial-machine-setup).
 2. Run `npm install` - If you forget to do this, you'll see this: `babel-node: command not found`.
